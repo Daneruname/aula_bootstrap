@@ -1,0 +1,36 @@
+body{
+    font: 20px Arial, sans-serif;
+}
+
+.navbar{
+    background-color: #17A589;
+}
+
+.quem-somos{
+    background-color: #E8DAEF;
+    color: rgb(66, 64, 64);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.margin{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.parceiros{
+    background-color: #F6DDCC;
+    color: rgb(66, 64, 64);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.servicos{
+    background-color: rgb(207, 248, 166);
+    color: rgb(66,64,64);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.bg-footer{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(0, 0, 0);
+    color:rgb(214, 214, 214);
+}
